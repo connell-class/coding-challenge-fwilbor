@@ -5,7 +5,7 @@ Total Points: 100
 Grocery List  
 Build a project that will allow for the creating of grocery lists  
 Technologies
-* React
+* Angular
 * Spring
 * Postgres or OracleDB RDS  
 ## Part 1 Implement your DB: 15 Points
