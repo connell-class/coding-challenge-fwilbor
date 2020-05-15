@@ -1,5 +1,5 @@
 
-package com.revature.model;
+package com.grocerylist.model;
 
 import java.util.HashSet;
 import java.util.Set;
